@@ -22,11 +22,4 @@ public class Student {
     private String name;
     private String email;
     private int marks;
-
-//    public Student(int id, String name, String email, int marks) {
-//        Id = id;
-//        this.name = name;
-//        this.email = email;
-//        this.marks = marks;
-//    }
 }
